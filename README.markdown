@@ -2,6 +2,9 @@
 
 InterlinkBOT is a Python-based automation tool designed to interact with the Interlink Labs API for automated token claiming. It supports both proxy and non-proxy configurations, allowing users to log in via email or Telegram and claim tokens every 4 hours.
 
+## Regis
+https://interlinklabs.ai/ or Download via play store / Apps Store
+
 ## Features
 - **Auto Claim**: Automatically claims tokens every 4 hours.
 - **Proxy Support**: Option to use proxies for enhanced privacy and reliability.
